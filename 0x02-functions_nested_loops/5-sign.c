@@ -5,7 +5,7 @@
  *@n: function parameter
  * Return: 1, 0 or -1
  */
-int print_sing(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
