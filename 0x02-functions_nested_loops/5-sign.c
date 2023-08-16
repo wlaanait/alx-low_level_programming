@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_sing - prints the sign of a number
+ * print_sing - prints sing of a number
  *@n: function parameter
  * Return: 1, 0 or -1
  */
-int print_sign(int n)
+int print_sing(int n)
 {
 	if (n > 0)
 	{
